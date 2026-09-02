@@ -1,0 +1,28 @@
+# Python / notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# C++ / CMake / ROS
+build/
+install/
+log/
+CMakeFiles/
+CMakeCache.txt
+
+# Data and model artifacts
+data/
+datasets/
+weights/
+checkpoints/
+*.bag
+*.db3
+*.pth
+*.pt
+*.ckpt
+
+# Generated media and operating-system files
+.DS_Store
+*.mp4
+*.mov
