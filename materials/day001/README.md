@@ -17,4 +17,4 @@ python3 -m unittest materials/day001/test_entropy_baseline.py -v
 - `day01_python.ipynb`：可选 Notebook 练习。
 - `baseline_template.md`：研究问题与能力基线模板。
 
-完整讲解、练习和评分标准见 [`../../daily/2026-09-03.md`](../../daily/2026-09-03.md)。
+完整讲解、练习和评分标准见 [`../../daily/2026-09-04.md`](../../daily/2026-09-04.md)。
