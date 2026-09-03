@@ -84,6 +84,23 @@
 | M20 | [医学图像配准字幕课程](https://www.bilibili.com/video/BV1NZ4y1p7RT/) | 第 6–9 节学习联合熵、MI 和优化 |
 | M21 | [多模态医学论文清单](https://github.com/czifan/Multimodal-Medicine-AI) | 检索多模态医学综述、模型和数据集 |
 
+### 信息论扩展：非完备多模态与医学可靠性
+
+| 编号 | 资源 | 推荐用途 |
+| --- | --- | --- |
+| M24 | [MIT 6.441：Rate-Distortion Theory](https://ocw.mit.edu/courses/6-441-information-theory-spring-2016/resources/mit6_441s16_chapter_23/) | 理解码率、失真和有损表示之间的基本极限 |
+| M25 | [Tishby、Pereira、Bialek：The Information Bottleneck Method](https://arxiv.org/abs/physics/0004057) | 任务相关压缩、充分表示和率失真的联系 |
+| M26 | [Alemi 等：Deep Variational Information Bottleneck](https://arxiv.org/abs/1612.00410) | 用变分方法实现可训练的信息瓶颈 |
+| M27 | [Williams、Beer：Nonnegative Decomposition of Multivariate Information](https://arxiv.org/abs/1004.2515) | 入门冗余、独有信息和协同信息；注意 PID 定义并不唯一 |
+| M28 | [Rubin：Inference and Missing Data](https://doi.org/10.1093/biomet/63.3.581) | 理解缺失机制及何时不能忽略缺失过程 |
+| M29 | [Havaei 等：HeMIS](https://arxiv.org/abs/1607.05194) | 医学影像缺失模态的集合式融合基线 |
+| M30 | [Guo 等：On Calibration of Modern Neural Networks](https://proceedings.mlr.press/v70/guo17a.html) | 置信度校准、ECE 和 temperature scaling |
+| M31 | [Kendall、Gal：What Uncertainties Do We Need?](https://papers.nips.cc/paper_files/paper/2017/hash/2650d6089a6d640c5e85b2b88265dc2b-Abstract.html) | 区分数据噪声与模型不确定性 |
+| M32 | [Grünwald、Roos：Minimum Description Length Revisited](https://doi.org/10.1142/S2661335219300018) | 用编码长度理解模型拟合—复杂度权衡 |
+| M33 | [Watanabe：Information Theoretical Analysis of Multivariate Correlation](https://doi.org/10.1147/rd.41.0066) | 总相关/多变量依赖的原始定义 |
+| M34 | [Li、Oliva：Active Feature Acquisition with Generative Surrogate Models](https://proceedings.mlr.press/v139/li21p.html) | 按信息收益和成本决定是否获取额外检查或模态 |
+| M35 | [Dwork、Roth：The Algorithmic Foundations of Differential Privacy](https://www.microsoft.com/en-us/research/publication/algorithmic-foundations-differential-privacy/) | 医学数据共享中的差分隐私、敏感度、隐私预算、组合定理及效用代价 |
+
 ### 中文补充材料
 
 | 编号 | 资源 | 推荐用途 |

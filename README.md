@@ -1,10 +1,10 @@
-# 多模态 × 互信息 × 三维重建 × 机器人：24 周每日学习路线
+# 信息论 × 多模态/非完备医学 × 三维重建 × 机器人：24 个学习周路线
 
 原定 2026-09-03 开始，因临时事件调整为从 **2026-09-04** 学习 Day 001；共 **24 个学习周 / 168 个学习日**，预计于 **2027-04-24** 完成。常规学习日每天 **2–4 小时**，限定日为 **2 小时**，均包含学习、推导/编程、跨线整合和可量化检测。
 
 ## 怎样使用
 
-1. 打开 [总路线](ROADMAP.md)，再进入当天所在周的每日文件；课程编号见 [资源索引](RESOURCES.md)。
+1. 打开 [总路线](ROADMAP.md)，再进入当天所在周的每日文件；课程编号见 [资源索引](RESOURCES.md)，信息论选题边界见 [信息论工具箱](INFORMATION_THEORY_SCOPE.md)。
 2. 先做 2 小时核心；时间充足再做专项/加深模块，不用牺牲检测环节。
 3. 每天提交 `notes/DayNNN.md`、`experiments/DayNNN/` 和 `progress.csv`。
 4. 当日低于 4/6，次日先补；每周低于 16/20，不进入新周。
@@ -21,6 +21,7 @@
 ├── README.md
 ├── ROADMAP.md
 ├── SCHEDULE.md
+├── INFORMATION_THEORY_SCOPE.md
 ├── daily/W01.md ... W24.md
 ├── templates/daily-note.md
 ├── progress.csv
