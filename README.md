@@ -4,7 +4,7 @@
 
 ## 怎样使用
 
-1. 打开 [总路线](ROADMAP.md)，再进入当天所在周的每日文件；课程编号见 [资源索引](RESOURCES.md)，信息论选题边界见 [信息论工具箱](INFORMATION_THEORY_SCOPE.md)。
+1. 初学者先读 [跟学与资料使用指南](BEGINNER_STUDY_GUIDE.md)，再打开 [总路线](ROADMAP.md) 和当天所在周的每日文件；课程编号见 [资源索引](RESOURCES.md)，信息论选题边界见 [信息论工具箱](INFORMATION_THEORY_SCOPE.md)。
 2. 先做 2 小时核心；时间充足再做专项/加深模块，不用牺牲检测环节。
 3. 每天提交 `notes/DayNNN.md`、`experiments/DayNNN/` 和 `progress.csv`。
 4. 当日低于 4/6，次日先补；每周低于 16/20，不进入新周。
@@ -22,6 +22,7 @@
 ├── ROADMAP.md
 ├── SCHEDULE.md
 ├── INFORMATION_THEORY_SCOPE.md
+├── BEGINNER_STUDY_GUIDE.md
 ├── daily/W01.md ... W24.md
 ├── templates/daily-note.md
 ├── progress.csv

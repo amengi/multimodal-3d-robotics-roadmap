@@ -1,6 +1,6 @@
 # 资源索引
 
-每日文件中 `Gxx` 表示三维/机器人资源，`Mxx` 表示互信息/多模态资源。优先使用官方文档、公开课、原论文和作者代码；中文社区材料只用于辅助直觉。
+每日文件中 `Gxx` 表示三维/机器人资源，`Mxx` 表示信息论/多模态资源。每日提纲会直接放入当天可点击的资料链接，并说明阅读顺序、范围、用时和完成标志；本页用于按主题查找替代资料。优先使用官方文档、公开课、原论文和作者代码；中文社区材料只用于辅助直觉。
 
 ## G：三维重建、机器人与仿真
 
@@ -36,7 +36,7 @@
 - **G20 Gazebo/ROS 2**：[Gazebo Harmonic 入门](https://gazebosim.org/docs/harmonic/getstarted/)；[ROS 2 集成](https://gazebosim.org/docs/harmonic/ros2_integration/)
 - **G21 Isaac Sim（选修，需要合适 NVIDIA GPU）**：[ROS 2 Tutorials](https://docs.isaacsim.omniverse.nvidia.com/latest/ros2_tutorials/index.html)
 
-## M：互信息与多模态学习
+## M：信息论与多模态学习
 
 ### 数学、概率和深度学习
 
